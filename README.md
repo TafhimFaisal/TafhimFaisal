@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TafhimFaisal&repo=BloodBank_FronEnd)](https://github.com/TafhimFaisal/BloodBank_FronEnd)
 
 
-**check out my basic learners proejct on Golang to learner basic golang in a fastest maner**
+**check out my basic learners proejct on Golang to learner basic golang in a fastest maner**<br/>
+please do check out my blog on basic **[golang](https://learninggolangwithtafhim.blogspot.com/)** <br/>
+[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://learninggolangwithtafhim.blogspot.com/)
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TafhimFaisal&repo=basic-go-cli-temperature-converter)](https://github.com/TafhimFaisal/basic-go-cli-temperature-converter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TafhimFaisal&repo=basic-go-crud-api)](https://github.com/TafhimFaisal/basic-go-crud-api)
