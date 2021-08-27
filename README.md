@@ -1,5 +1,5 @@
 ### Hi there 👋
-It is **Tafhim Faisal**. i am a webdevloper and a passionate programmer. love to learn new staff and work with new ideas. 
+It is **Tafhim Faisal**. i am a web developer and a passionate programmer. love to learn new staff and work with new ideas. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Bricks and Mortals House rental website
