@@ -7,6 +7,7 @@
 **i am a web developer. love to learn new staff and work on new ideas.**
 <hr/>
 Here are some ideas to get you started:
+
 - 🔭 I’m currently working on Bricks and Mortals House rental website
 - 🌱 I’m currently learning python, django
 - 👯 I’m looking to collaborate on an open source project to contribute for the comunity.
