@@ -36,7 +36,6 @@ please do check out my blog on basic **[golang](https://learninggolangwithtafhim
 **check out my basic learners proejct on laravelliveware and react**
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TafhimFaisal&repo=Todo_app_using_laravel_livewire)](https://github.com/TafhimFaisal/Todo_app_using_laravel_livewire)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TafhimFaisal&repo=laravel_React_todo_App)](https://github.com/TafhimFaisal/laravel_React_todo_App)
 
 
