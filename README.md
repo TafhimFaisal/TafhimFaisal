@@ -33,9 +33,11 @@ please do check out my blog on basic **[golang](https://learninggolangwithtafhim
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TafhimFaisal&repo=basic-go-cli-temperature-converter)](https://github.com/TafhimFaisal/basic-go-cli-temperature-converter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TafhimFaisal&repo=basic-go-crud-api)](https://github.com/TafhimFaisal/basic-go-crud-api)
 
-**check out my basic learners proejct on laravelliveware**
+**check out my basic learners proejct on laravelliveware and react**
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TafhimFaisal&repo=Todo_app_using_laravel_livewire)](https://github.com/TafhimFaisal/Todo_app_using_laravel_livewire)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TafhimFaisal&repo=laravel_React_todo_App)](https://github.com/TafhimFaisal/laravel_React_todo_App)
 
 
 
